@@ -274,8 +274,15 @@ function getCertificate(uint256 certificateId)
 ### Certificate View
 ![Certificate](./screenshots/certificate.png)
 
-### Admin Panel
-![Admin](./screenshots/admin.png)
+### Chatbot Panel
+![Chatbot](./screenshots/chatbot.png)
+
+### New Application Panel
+![New Application Panel](./screenshots/newapplication.png)
+
+### Blockchain Proof File
+![Blockchain Proof](./screenshots/blockchainprooffile.png)
+
 
 ## 🤝 Contributing
 
