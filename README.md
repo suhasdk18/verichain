@@ -266,6 +266,16 @@ function issueCertificate(bytes32 dataHash, string memory ipfsCID)
 function verifyCertificate(uint256 certificateId)
 function getCertificate(uint256 certificateId)
 ```
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Certificate View
+![Certificate](./screenshots/certificate.png)
+
+### Admin Panel
+![Admin](./screenshots/admin.png)
 
 ## 🤝 Contributing
 
